@@ -1,1 +1,1 @@
-# nature-med-2023
+This repository accompanies our publiction 'Intratumoral dendritic cell-helper T cell niches mediate CD8+ T cell differentiation following PD-1 blockade in hepatocellular carcinoma' Magen et al, Nature Medicine (2023).
